@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Initial Page
 permalink: /initial_page/
 ---
 Simone
