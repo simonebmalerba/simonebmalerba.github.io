@@ -1,3 +1,6 @@
+---
 layout: page
-title: Simone Blanco Malerba
-permalink: /contact/
+title: About
+permalink: /about/
+---
+Simone
