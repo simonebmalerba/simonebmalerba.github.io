@@ -1,3 +1,3 @@
 layout: page
-title: "Simone Blanco Malerba"
+title: Simone Blanco Malerba
 permalink: /contact/
